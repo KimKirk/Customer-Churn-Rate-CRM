@@ -8,4 +8,4 @@ customer churn rate
 - Dummy data provided by Codecademy.
 
 ## Visit the link to view the report: 
-https://drive.google.com/open?id=1cYjqzEsP4sU3qj7XvxwqT7cJBWyZaF6QeyeMyislYyw 
+https://docs.google.com/presentation/d/e/2PACX-1vTmgCAaKJs3BkPVeNXkRGg0njvzIEpYdE-5M07cCKA-Cwaj6pJ_xhBed2c_w5PRmgA0x3kDG_kO3ToE/pub?start=true&loop=true&delayms=3000 
