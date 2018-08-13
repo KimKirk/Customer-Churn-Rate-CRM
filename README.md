@@ -1,5 +1,6 @@
 # Customer-Churn-Rate-CRM
-customer churn rate 
+customer churn rate
+- Digital Commerce: Marketing
 
 - Overall customer churn trend since the company started is calculated for a streaming video company.
 - Specific segments are identified where the company can expand its customer base.
